@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Morse Code</string>
+    <string name="english">English</string>
+    <string name="morse">Morse code</string>
+    <string name="textcopied">Text copied to clipboard!!!</string>
+    <string name="generatedtext">Output</string>
+</resources>
